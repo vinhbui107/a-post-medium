@@ -424,7 +424,7 @@ main {
 }
 
 .post-panel .panel-des p, a {
-  font-size: 15px;
+  font-size: 15px !importaint;
   color: rgba(0, 0, 0, 0.54);
 
 }
