@@ -161,7 +161,7 @@ body {
 }
 
 p {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 400;
 }
 
@@ -196,6 +196,15 @@ p {
   flex-grow: 1;
   justify-content: flex-end;
   align-items: center;
+}
+
+.hd-top-right .search a,
+.hd-top-right .save a,
+.hd-top-right .bell a,
+.hd-top-right .avatar img {
+  display: flex;
+  justify-self: center;
+  font-size: 20px;
 }
 
 .hd-top-right > div {
